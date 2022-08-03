@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bce8c8df-53e4-4c92-9aa4-79ea8d7cd6e6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EmployeeHotel.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/citi/employeedemo/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/citi/employeedemo/Employees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/citi/employeedemo/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/citi/employeedemo/Subordinate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/citi/employeedemo/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/citi/employeedemo/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/citi/employeedemo/Employees.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/citi/employeedemo/Employees.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/citi/employeedemo/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/citi/employeedemo/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/citi/employeedemo/Subordinate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/citi/employeedemo/Subordinate.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +38,26 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.citi.employeedemo.Application" />
+      <module name="EmployeeHotel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.citi.employeedemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
