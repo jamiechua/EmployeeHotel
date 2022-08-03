@@ -12,6 +12,6 @@ public class Manager extends Employees{
     }
 
     public String toString(){
-        return super.toString() +"Salary: " + String.valueOf(calculateSalary());
+        return super.toString() +"Salary: " + calculateSalary();
     }
 }

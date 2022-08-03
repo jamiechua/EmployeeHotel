@@ -6,7 +6,6 @@
       <change beforePath="$PROJECT_DIR$/src/com/citi/employeedemo/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/citi/employeedemo/Application.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/citi/employeedemo/Employees.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/citi/employeedemo/Employees.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/citi/employeedemo/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/citi/employeedemo/Manager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/citi/employeedemo/Subordinate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/citi/employeedemo/Subordinate.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
